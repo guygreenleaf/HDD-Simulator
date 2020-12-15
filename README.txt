@@ -18,7 +18,7 @@ You can then run this program by passing an input file. An input file contains 3
 
 ./a.out sim.txt
 
-Reports are generated in the DiskSim directory.
+Reports are generated in the same folder as a.out.
 
 
 
